@@ -7,7 +7,7 @@
 
 <a href="https://discord.gg/7YFXkyWj8d">
     <img align="right" alt="Discord" width="25px"
-         src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/discord.svg?token=GHSAT0AAAAAAB6LI7FVHLZGD4ZD5XSE7B4CZADNZJQ"
+         src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/discord.svg"
     />
 </a>
 
