@@ -5,7 +5,7 @@
 
 # Welcome to WeaveMC
 
-<a href="https://discord.gg/7YFXkyWj8d">
+<a href="https://discord.gg/SHZUYWhwDP">
     <img align="right" alt="Discord" width="25px"
          src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/discord.svg"
     />
@@ -23,4 +23,4 @@
 
 - Need support? Open an issue in your corresponding repository. 
 
-[discord]: https://discord.gg/7YFXkyWj8d
+[discord]: https://discord.gg/SHZUYWhwDP
