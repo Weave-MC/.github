@@ -1,6 +1,6 @@
 <img 
     align="right" alt="title" width="200px"
-    src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/logo.png"
+    src="https://raw.githubusercontent.com/Weave-MC/.github/master/assets/icon.png"
 />
 
 # Welcome to WeaveMC
