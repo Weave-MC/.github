@@ -17,7 +17,7 @@
     />
 </a>
 
-> We build Mod-Loaders and Utilities to inject into closed-off Minecraft-Clients.
+> Easy to use modloader for Lunar Client
 
 - Want to contact us? We have a [discord channel][discord] for that. 
 
