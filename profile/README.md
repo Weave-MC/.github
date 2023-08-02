@@ -19,7 +19,7 @@
 
 > Easy to use modloader for Lunar Client
 
-- Want to contact us? We have a [discord channel][discord] for that. 
+- Want to contact us? We have a [discord server][discord] for that. 
 
 - Need support? Open an issue in your corresponding repository. 
 
