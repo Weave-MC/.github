@@ -17,8 +17,7 @@
     />
 </a>
 
-> Easy to use modloader for Lunar Client
-
+> Easy to use mod loader for Minecraft
 - Want to contact us? We have a [discord channel][discord] for that. 
 
 - Need support? Open an issue in your corresponding repository. 
