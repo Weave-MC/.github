@@ -3,7 +3,7 @@
     src="https://avatars.githubusercontent.com/u/126124815?s=400&u=c274f4ff6a9ff62698476de6bf66cacf1d6bed8e"
 />
 
-# Welcome to WeaveMC
+# Welcome to Weave
 
 <a href="https://discord.gg/SHZUYWhwDP">
     <img align="right" alt="Discord" width="25px"
